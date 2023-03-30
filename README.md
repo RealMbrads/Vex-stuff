@@ -8,3 +8,7 @@ Line Tracker = Analog
 Potentiometer = Analog
 Shaft Encoder = Digital
 Light Sensor = Analog
+
+
+For Line Tracker 0 = absolute brightness
+3000 = absolute darkness
