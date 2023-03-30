@@ -18,7 +18,7 @@ task main()
 		else
 		{
 motor[motor1] = 0; //stop motor1
-motor[motor1] = 0; //stop motor2
+motor[motor2] = 0; //stop motor2
 }
 }
 }
