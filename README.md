@@ -1,4 +1,4 @@
-For best viewing experience please press <>
+For best viewing experience please press <>.
 This is all the stuff related to Vex motors and sensors.
 You may need to change code depending on what port your sensor is plugged into.
 Bumper Switch = Digital
