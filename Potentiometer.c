@@ -7,7 +7,7 @@ task main()
 {
 	while(1==1) // this while 1==1 statement create an infinite loop.
 	{
-		if(SensorValue(potentiometer) >= 510) //when potentiometer value is greater than 510
+		if(SensorValue(Potentiometer) >= 510) //when potentiometer value is greater than 510
 		{
 			motor[motor1] = 63; //initial speed, 63 revs/min
 			motor[motor2] = 63; //initial speed, 63 revs/min
