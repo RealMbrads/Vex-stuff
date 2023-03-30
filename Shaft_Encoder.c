@@ -12,7 +12,7 @@ task main()
 			motor[motor2] = 63; //initial speed, 63 revs/min
 			wait1Msec(5000); // go for 5 seconds
 			motor[motor1] = 0; //stop motor1
-			motor[motor1] = 0; //stop motor2
+			motor[motor2] = 0; //stop motor2
 		}
 		else
 		{
