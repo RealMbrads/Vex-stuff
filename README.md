@@ -12,3 +12,7 @@ Light Sensor = Analog
 
 For Line Tracker 0 = absolute brightness
 3000 = absolute darkness
+
+
+
+For Potentiometer it is (Right) 0 to 1023 (Left)
